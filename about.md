@@ -5,19 +5,20 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+Welcome to Pinnacle Roleplay, a relaxed and enjoyable roleplay experience.
 
-[GitHub](https://github.com/coffeebank/moonrise)
-
-
-# Terms of Use
-
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+[Main Site](https://www.pinnacleroleplay.net)
 
 
-# Privacy Policy
+# About Us
 
-This website does not collect any data, but third party integrations may collect data to provide a service.
+Created for roleplayers by roleplayers, we offer a handful of new and exciting features to the game.
 
-- Mcsrvstat.us: Displays Minecraft server status
-- Widgetbot: Displays Discord server preview
+
+# Features
+
+Some of the features we provide include:
+
+- Amazing real-time integration between your CAD/MDT & FiveM
+- Our custom framework brings features unlike anywhere else
+- Countless unique features, constant updates, and more
